@@ -1,0 +1,14 @@
+# Node modules
+node_modules/
+
+# Output directories
+dist/
+
+# Jest coverage
+coverage/
+
+# Logs
+*.log
+
+# VS Code settings
+.vscode/
